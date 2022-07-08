@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5237036-1dd4-48b1-ae89-d7bf63a39d2e": {
+      "ProjectGuid": "f5237036-1dd4-48b1-ae89-d7bf63a39d2e",
+      "DisplayName": "Editor de Texto",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
